@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ModMetaData>
-  <name>CK Animal Pack ADS Patch</name>
-  <author>Qwynn</author>
-  <targetVersion>0.16.1385</targetVersion>
-  <description>Compatibility patch to enable 'A Dog Said...' surgeries for CK Animal Pack animals.</description>
+﻿<ModMetaData>
+
+	<name>CK Animal Pack ADS Patch</name>
+	<author>Qwynn</author>
+	<targetVersion>0.16.1385</targetVersion>
+	<description>Compatibility patch to enable 'A Dog Said...' surgeries for CK Animal Pack animals.</description>
+	
 </ModMetaData>
